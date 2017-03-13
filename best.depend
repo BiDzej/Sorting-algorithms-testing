@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1489413461 source:c:\users\bidzejj\desktop\proi\best\algorithms.cpp
+	"Algorithms.h"
+
+1489413495 c:\users\bidzejj\desktop\proi\best\algorithms.h
+	<iostream>
+
+1489414981 source:c:\users\bidzejj\desktop\proi\best\main.cpp
+	<time.h>
+	"Algorithms.h"
+	"SortingMachine.h"
+	"SortTest.h"
+
+1489414303 c:\users\bidzejj\desktop\proi\best\sortingmachine.h
+	<vector>
+	<stdlib.h>
+	<iostream>
+	<algorithm>
+	"SortTest.h"
+
+1489413908 c:\users\bidzejj\desktop\proi\best\sorttest.h
+	<string>
+	<string.h>
+	<time.h>
+	<iostream>
+
+1489416637 source:c:\users\bidzejj\desktop\proi\best\sortingmachine.cpp
+	"SortingMachine.h"
+
+1489413933 source:c:\users\bidzejj\desktop\proi\best\sorttest.cpp
+	"SortTest.h"
+
